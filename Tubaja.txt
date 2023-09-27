@@ -1,0 +1,25 @@
+Historia HTML:
+1991 - Tim Berners-Lee stworzy³ HTML, ale jeszcze go nie wypuœci³.
+1993 - opublikowany zosta³ HTML 1.0 z intencj¹ dzielenia siê informacjami, które mog¹ byæ odczytywane i dostêpne przez przegl¹darki internetowe.
+1995 - opublikowano HTML 2.0, który zawiera wszystkie cechy HTML 1.0 dodatkowo z kilkoma nowymi.
+1997 (styczeñ) - opublikowano HTML 3.0, w którym dodano wiêcej nowych cech daj¹cych wiecej mo¿liwoœci w projektowaniu stron internetowych.
+1997 (grudzieñ) - opublikowany zosta³ HTML 4.0, oferowa³ 3 wariacje:
+Strict, w którym przestarza³e elementy s¹ zabronione 
+Transitional, w którym przestarza³e elementy s¹ dozwolone
+Frameset, w którym dozwolone s¹ g³ównie elementy zwi¹zane z ramkami.
+2014 - wypuszczony zosta³ HTML 5.0, który doda³ wiêcej nowych elementów oraz doprecyzowa³ wiele niejasnoœci  w specyfikacji HTML 4. Jest to najbardziej aktualna wersja tego jêzyka znaczników.
+Historia CSS:
+1996 - H??kon Wium Lie stwory³ i opublikowa³ CSS 1, maj¹cy wtedy na celu edycje w³aœciwoœci tekstu. By³y te¿ funkcje zmiany koloru t³a, paddingu, pozycjonowania i klasyfikacji ogólnych.
+1998 - powsta³ CSS2, który ma wiêcej funkcji ni¿ poprzednia wersja. U¿ytkownicy mogli korzystaæ z nowych funkcji, takich jak pozycjonowanie wzglêdne, bezwzglêdne, a tak¿e sta³e.
+1999 - opublikowany zosta³ CSS3, który posiada ogromn¹ kolekcjê typów czcionek. Ponadto wersja ta jest podzielona na wiele modu³ów, które u³atwiaj¹ obs³ugê, a tak¿e oszczêdzaj¹ czas formatowania stron internetowych. Najbardziej popularna i najnowsza wersja CSS.
+Hstoria JS:
+1995 - Java Script zosta³ utworzony przez Brednana Eicha.
+1997 - JS zosta³ zaimplementowany na podtawie stadardu ECMAScript (ES1).
+1998 - ES2 zmiany redakcyjne
+1999 - ES3 dodano wyra¿enia regularne, try/catch, prze³¹cznik oraz do-while.
+niewypuszczony - ES4
+2009 - ES5  dodano "tryb œcis³y", obs³ugê JSON, String.trim(), Array.isArray() i metody iteracji tablicy. Zezwolono na koñcowe przecinki dla litera³ów obiektów
+
+
+
+
